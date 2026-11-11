@@ -159,6 +159,7 @@ It provides a structured foundation for analysing:
 
 ![Complete Power BI Data Model](Screenshots/01_Complete_Data_Model.png)
 
+
 ---
 
 ## 📁 Repository Structure
@@ -209,9 +210,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 🙏 Project Reference
-
-This project was developed as a hands-on learning exercise based on the Power BI data modeling concepts taught by **Data with Baraa**.
 
 The implementation and documentation reflect my project work.
 
