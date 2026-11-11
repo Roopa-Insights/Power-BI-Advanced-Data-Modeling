@@ -53,7 +53,7 @@ The project was completed through the following stages:
 
 ## Data Modeling Process
 
-![Power BI Data Modeling Process](Screenshots/02_Data_Modeling_Process.png)
+![Power BI Data Modeling Process](https://github.com/Roopa-Insights/Power-BI-Advanced-Data-Modeling/blob/main/Screenshots/Power%20BI%20Data%20Modeling%20Process.png)
 
 ---
 
