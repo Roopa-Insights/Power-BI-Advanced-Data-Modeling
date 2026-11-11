@@ -1,1 +1,1 @@
-This folder contains the datasets used in the Power BI data modeling project.
+This folder contains the original Excel workbook used as the source for the Power BI Advanced Data Modeling project.
