@@ -50,7 +50,8 @@ The project was completed through the following stages:
 8. Validating the data model.
 9. Organising analytical measures.
 
-### Data Modeling Process
+
+## Data Modeling Process
 
 ![Power BI Data Modeling Process](Screenshots/02_Data_Modeling_Process.png)
 
